@@ -1,3 +1,5 @@
+require 'active_support/core_ext/string/output_safety'
+
 module Nestive
 
   # The Nestive LayoutHelper provides a handful of helper methods for use in your layouts and views.
